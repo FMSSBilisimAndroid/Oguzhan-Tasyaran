@@ -4,5 +4,5 @@ isim kullanımı problemi yaşanabilmektedir. Bu problemin önüne geçebilmek i
 
 Nesne tabanlı dillerde meydana gelen değişken isimlerinin karışması sorunu ve karışmaması için basit isimlendirilmeler yapılması sorunları namespace ile birlikte ortadan kalkmıştır.  
 
-Namespace’ler belirtici etiketlerdir, adres işaret etmezler.
+Namespace’ler belirtici etiketlerdir, adres işaret etmezler.  
 Prefix’ler etiketlerin başında kullanılırlar. Aynı isimdeki etiketlerin hangi Namespace için olduğunu gösterirler.
